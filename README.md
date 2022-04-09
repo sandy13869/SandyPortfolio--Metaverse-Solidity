@@ -1,5 +1,5 @@
-# SandyPortfolio--Metaverse-Solidity
-SandyPortfolio--Metaverse-Solidity
+# Sandy Metaverse Tutorial
+
 ## Technology Stack & Tools Required
 
 - For Smart Contract: Solidity.
